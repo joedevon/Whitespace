@@ -1,0 +1,21 @@
+I've been working on a new "Programming Language". It's called <strong>Whitespace</strong>. Before explaining to you the philosophy behind it, I'd like to show you some sample code so you get an idea of what it's like to use it.
+
+I do warn you. It's <em>literally</em> going to look like <em>nothing</em>. But bear with me. You'll realize the reasoning behind it is brilliant. 
+
+Let's see if you can figure it out before reading the explanation that follows.... Go <a href="http://pastebin.com/ADKzWAbm">check out the code</a> and come back.
+
+OK...Get it?
+
+Let me explain. First, this language is inspired by Python. Everyone loves Python. It's so easy. All the cool kids are using it. "The Whitespace" is the most popular feature and I figured why not make a whole language out of it!
+
+Now as a programmer, your goal is to remain gainfully employed by becoming instrumental to your employer. This can only happen if your code is brilliant. Which is determined by how few, lesser programmers, can understand it. The more complicated it is, obviously the smarter you are...
+
+Now, with my help, you can take it one step further. Not only won't anyone understand your code, they <strong>literally</strong> WON'T be able to even READ IT! Win win! 
+
+Imagine the look on your boss' face when you run the program you showed him a moment ago as being blank and it's filled with functionality!
+
+Here's how the syntax works. You see, every bit is 0 or 1. A carriage return without a whitespace is 0. A space plus carriage return is 1. 8 lines per byte. No wasted lines. No comments. In fact, the code is self-documenting. 
+
+That, in a nutshell,  is Whitespace.
+
+I'm not quite done yet, but do not worry, I will open source it <a href="https://github.com/joedevon/Whitespace">here</a>. Enjoy.
