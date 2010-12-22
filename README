@@ -2,7 +2,7 @@ I've been working on a new "Programming Language". It's called <strong>Whitespac
 
 I do warn you. It's <em>literally</em> going to look like <em>nothing</em>. But bear with me. You'll realize the reasoning behind it is brilliant. 
 
-Let's see if you can figure it out before reading the explanation that follows.... Go <a href="http://pastebin.com/ADKzWAbm">check out the code</a> and come back.
+Let's see if you can figure it out before reading the explanation that follows.... Go check out the code and come back. http://pastebin.com/ADKzWAbm
 
 OK...Get it?
 
@@ -18,4 +18,4 @@ Here's how the syntax works. You see, every bit is 0 or 1. A carriage return wit
 
 That, in a nutshell,  is Whitespace.
 
-I'm not quite done yet, but do not worry, I will open source it <a href="https://github.com/joedevon/Whitespace">here</a>. Enjoy.
+I'm not quite done yet, but do not worry, I will open source it. Enjoy.
